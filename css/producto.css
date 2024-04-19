@@ -6,7 +6,7 @@ h3{color: white;}
 .img2{width: 320px; height: 500px;}
 .navegacion{background-color: white;display: flex;flex-wrap: wrap;flex-direction: row;justify-content: space-around;align-items: center;font-size: 20px;color: white;}
 a{color: red;font;text-decoration: none;}
-.imgDiesel{ }
+.imgDiesel{height: 110px;align-items: center;}
 .logo{height: 100px; width: 200px}
 .imgDiesel{height: 110px;align-items: center;}
 footer{background-color: red; color: white;}
