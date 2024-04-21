@@ -1,13 +1,10 @@
 footer{background-color: red;}
 .logo{height: 100px; width: 200px}
 .imgDiesel{height: 110px;align-items: center;}
-body{font-family:Arial, Helvetica, sans-serif;}
+body{font-family:Arial, Helvetica, sans-serif; background-color: rgb(244, 184, 184)}
 .navegacion{background-color: red;display: flex;flex-wrap: wrap;flex-direction: row;justify-content: space-around;align-items: center;font-size: 20px;color: white;}
-.cuenta{color:blue;font;text-decoration: none;text-decoration: underline;}
+.cuenta{color:blue;font;text-decoration: none;text-decoration: underline; font-size: 12px;}
 a{color: white; text-decoration: none; align-items: center;}
-.cuenta{font-size: 12px;}
-<<<<<<< HEAD
-.cuadro {align-items: center; background-color: rgb(246, 255, 222); width: 155px; height: 220px; margin-top: 10px; border: 2px dotted rgb(108, 120, 78);}
-=======
-.cuadro {align-items: center; background-color: #f6ffde; width: 155px; height: 220px; margin-top: 10px; border: 2px dotted #6c784e;}
->>>>>>> 6beea7f133ed72e79f3202b6f3afd5d74e45002c
+.cuadrologin {align-content: center; background-color:rgb(165, 42, 42); width: 170px; height: 220px; margin: 10px 10px 10px 10px; border: 3px dotted rgb(237, 160, 160); display: flex; flex-wrap: wrap; justify-content: center; align-items: center;}
+form{font-size: 20px;}
+.link{color: rgb(237, 160, 160); text-decoration: underline;}

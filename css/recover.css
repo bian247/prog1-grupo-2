@@ -1,0 +1,5 @@
+footer{background-color: red;}
+.logo{height: 100px; width: 200px}
+.imgDiesel{height: 110px;align-items: center;}
+.navegacion{background-color: red;display: flex;flex-wrap: wrap;flex-direction: row;justify-content: space-around;align-items: center;font-size: 20px;color: white;}
+a{color: white;font;text-decoration: none;}
