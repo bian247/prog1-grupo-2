@@ -6,4 +6,8 @@ body{font-family:Arial, Helvetica, sans-serif;}
 .cuenta{color:blue;font;text-decoration: none;text-decoration: underline;}
 a{color: white; text-decoration: none; align-items: center;}
 .cuenta{font-size: 12px;}
+<<<<<<< HEAD
 .cuadro {align-items: center; background-color: rgb(246, 255, 222); width: 155px; height: 220px; margin-top: 10px; border: 2px dotted rgb(108, 120, 78);}
+=======
+.cuadro {align-items: center; background-color: #f6ffde; width: 155px; height: 220px; margin-top: 10px; border: 2px dotted #6c784e;}
+>>>>>>> 6beea7f133ed72e79f3202b6f3afd5d74e45002c
