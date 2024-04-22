@@ -60,7 +60,7 @@ button{
     padding: 10px;
 }
 
-@media (max width:420px){
+@media (max width:320px;){
     .navegacion{flex-direction: column;}
     .elemento{flex-direction: column;}
 }
