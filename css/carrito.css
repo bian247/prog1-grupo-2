@@ -63,3 +63,7 @@ body{
     background-color: red;
     padding: 10px;
 }
+
+@media (max-width:420px;){
+    .navegacion{flex-direction: column;}
+}
