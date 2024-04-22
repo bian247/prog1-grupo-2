@@ -1,12 +1,68 @@
-img{height: 500px; width: 320px;}
-body{background-color: red;font-family: Arial, Helvetica, sans-serif;}
-h1{background-color: white; height: 45px; width: 195px; border-radius: 30px;}
-button{width: 150px; height: 40px;color: red;border-radius: 30px;border: white;}
-h3{color: white;}
-.img2{width: 320px; height: 500px;}
-.navegacion{background-color: white;display: flex;flex-wrap: wrap;flex-direction: row;justify-content: space-around;align-items: center;font-size: 20px;color: white;}
-a{color: red;font;text-decoration: none;}
-.imgDiesel{height: 110px;align-items: center;}
-.logo{height: 100px; width: 200px}
-.imgDiesel{height: 110px;align-items: center;}
-footer{background-color: red; color: white;}
+.imgDiesel{
+    height: 110px;
+    align-items: center;
+}
+
+.logo{
+    height: 100px; 
+    width: 200px
+}
+
+.navegacion{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+body{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: white;
+    height: 45px; 
+    width: 195px; 
+    border-radius: 30px;
+}
+
+h3{
+    color: white;
+}
+
+img{
+    height: 500px; 
+    width: 320px;
+}
+
+.img2{
+    width: 320px; 
+    height: 500px;
+}
+
+button{
+    width: 150px; 
+    height: 40px;
+    color: red;
+    border: white;
+    border-radius: 30px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    background-color: red;
+    padding: 10px;
+}
