@@ -50,6 +50,6 @@ body{
     padding: 10px;
 }
 
-@media (max-width:320px;){
+@media (max-width:430px;){
     .navegacion{flex-direction: column;}
 }
