@@ -10,7 +10,7 @@
 
 img{
     width: 150px;
-    height: 220px;
+    height: 220px;display: block;max-width: 100%;;
 }
 
 .navegacion{
