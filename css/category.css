@@ -38,5 +38,5 @@ body{
 img{width: 150px; height: 220px;margin: 20px;}
 button{background-color: red; color: white;border-radius: 30px;border: 10px;}
 
-*{box-sizing: border-box;}
+
 @media (max-width:320px;)
