@@ -5,8 +5,7 @@
 
 .logo{
     height: 100px; 
-    width: 200px
-}
+    width: 200px;}
 
 .navegacion{
     background-color: red;
@@ -36,7 +35,8 @@ body{
     background-color: red;
     padding: 10px;
 }
+img{width: 150px; height: 220px;margin: 20px;}
+button{background-color: red; color: white;border-radius: 30px;border: 10px;}
 
-@media (max-width:320px;){
-    .navegacion{flex-direction: column;}
-}
+*{box-sizing: border-box;}
+@media (max-width:320px;)

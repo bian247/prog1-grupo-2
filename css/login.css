@@ -67,6 +67,5 @@ form{
     padding: 10px;
 }
 
-/* phones */ @media(max-width:320px;){
-    .navegacion{flex-direction: column;}
-}
+*{box-sizing: border-box;}
+@media (max-width:320px;)

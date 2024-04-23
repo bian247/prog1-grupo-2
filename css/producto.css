@@ -65,7 +65,5 @@ button{
     background-color: red;
     padding: 10px;
 }
-
-@media (max-width:320px;){
-    .navegacion{flex-direction: column;}
-}
+*{box-sizing: border-box;}
+@media (max-width:320px;)
